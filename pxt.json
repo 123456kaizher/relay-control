@@ -1,0 +1,25 @@
+{
+    "name": "Relay Control",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "TEST": "github:123456kaizher/Relay_Control#v1.1.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.21",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
