@@ -9,6 +9,10 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/123456kaizher/relay-control** and import
+* This project in done by Kai Zher
+* Please do not copy this project and say it is your own project
+* You can use it but not copy it
+* Have Fun!
 
 ## Edit this project
 
